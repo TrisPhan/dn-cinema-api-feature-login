@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DnCinemaApplication<dn-cinema>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.dncinema.DnCinemaApplication",
+            "projectName": "dn-cinema",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

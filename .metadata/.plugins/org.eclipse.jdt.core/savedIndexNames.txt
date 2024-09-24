@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+D:\job\dn-cinema-api-feature-login\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2226590562.index
+2819078882.index
